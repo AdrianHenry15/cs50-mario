@@ -88,5 +88,10 @@ Height: 4
 1. Make sure you have a compiler for C programs. Some popular compilers include GCC, Clang, and Microsoft Visual C++.
 2. Clone the repo.
 3. `cd` into the respective directory.
+<<<<<<< HEAD
 4. Compile the code `gcc -o mario-less mario-less.c`.
 5. Start the program `./mario`
+=======
+4. Compile the code `gcc mario-less mario-less.c`.
+5. Start the program `./mario-less`
+>>>>>>> 6f1e690b5f453ee6ed95beb3a14d2e6647136526
