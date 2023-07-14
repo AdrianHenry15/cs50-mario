@@ -1,9 +1,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="200" />
 
 # HarvardX CS50's Introduction To Computer Science
+
 ## Week 1 Problem Set: Mario
 
 ### World 1-1
+
 Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
 
 <img src="https://cs50.harvard.edu/x/2023/psets/1/mario/less/pyramid.png" />
@@ -81,9 +83,10 @@ Height: 4
 ####
 ```
 
-### Getting Started 
+### Getting Started
+
 1. Make sure you have a compiler for C programs. Some popular compilers include GCC, Clang, and Microsoft Visual C++.
 2. Clone the repo.
 3. `cd` into the respective directory.
-4. Compile the code `gcc mario mario.c`.
+4. Compile the code `gcc -o cs50-mario-less mario-less.c`.
 5. Start the program `./mario`
