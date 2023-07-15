@@ -89,4 +89,4 @@ Height: 4
 2. Clone the repo.
 3. `cd` into the respective directory.
 4. Compile the code `gcc -o mario-less mario-less.c`.
-5. Start the program `./mario`
+5. Start the program `./mario-less`
